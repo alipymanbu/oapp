@@ -1,10 +1,12 @@
 # 04 · macOS 安装教程
 
-> [!IMPORTANT]
-> **网盘下载（夸克网盘）**：[https://pan.quark.cn/s/c2957430cc91](https://pan.quark.cn/s/c2957430cc91)
-
 > **上级索引**：[MediaInfo 下载与安装教程](下载与安装教程.md)
 > **相关文档**：[02-下载渠道与版本选择](02-下载渠道与版本选择.md) · [06-命令行使用指南](06-命令行使用指南.md) · [07-图形界面使用指南](07-图形界面使用指南.md) · [08-常见问题与故障排查](08-常见问题与故障排查.md)
+
+---
+
+> [!IMPORTANT]
+> **MediaInfo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c2957430cc91](https://pan.quark.cn/s/c2957430cc91)
 
 ---
 
@@ -19,6 +21,8 @@ macOS 上有两条路，**可以同时用**（界面版 + 命令行版共存）�
 | **Homebrew formula** | `brew install media-info` | **命令行工具** | 写脚本、批处理 |
 
 > AI 提示：Homebrew 里 GUI 用的是 cask 名 `mediainfo`，CLI 用的是 formula 名 `media-info`（带连字符），两者名字不同，别搞混。
+>
+> 不想走包管理器？也可从夸克网盘获取 **MediaInfo 安装文件资源**：[https://pan.quark.cn/s/c2957430cc91](https://pan.quark.cn/s/c2957430cc91)
 
 ---
 
@@ -142,5 +146,6 @@ macOS 会按系统语言显示。脚本解析时建议加 `--Language=raw` 固�
 
 ## 八、下一步
 
+- 重新获取安装包 → [MediaInfo 安装文件资源（夸克网盘）](https://pan.quark.cn/s/c2957430cc91)
 - [06-命令行使用指南](06-命令行使用指南.md)
 - [07-图形界面使用指南](07-图形界面使用指南.md)

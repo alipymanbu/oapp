@@ -1,10 +1,12 @@
 # 05 · Linux 安装教程
 
-> [!IMPORTANT]
-> **网盘下载（夸克网盘）**：[https://pan.quark.cn/s/c2957430cc91](https://pan.quark.cn/s/c2957430cc91)
-
 > **上级索引**：[MediaInfo 下载与安装教程](下载与安装教程.md)
 > **相关文档**：[02-下载渠道与版本选择](02-下载渠道与版本选择.md) · [06-命令行使用指南](06-命令行使用指南.md) · [08-常见问题与故障排查](08-常见问题与故障排查.md)
+
+---
+
+> [!IMPORTANT]
+> **MediaInfo 安装文件资源（夸克网盘）**：[https://pan.quark.cn/s/c2957430cc91](https://pan.quark.cn/s/c2957430cc91)
 
 ---
 
@@ -18,6 +20,8 @@ Linux 上 MediaInfo 通常拆成两个包，**别只装错那一个**：
 | `mediainfo-gui` | 图形界面 |
 
 想要界面就两个都装；只做自动化就装 `mediainfo` 一个即可。
+
+发行版仓库没有收录、或安装遇到依赖冲突时，也可直接取用 [MediaInfo 安装文件资源（夸克网盘）](https://pan.quark.cn/s/c2957430cc91)。
 
 ---
 
@@ -214,5 +218,6 @@ RUN apk add --no-cache mediainfo
 
 ## 九、下一步
 
+- 直接取安装包 → [MediaInfo 安装文件资源（夸克网盘）](https://pan.quark.cn/s/c2957430cc91)
 - [06-命令行使用指南](06-命令行使用指南.md)（Linux 上最常用）
 - [07-图形界面使用指南](07-图形界面使用指南.md)
